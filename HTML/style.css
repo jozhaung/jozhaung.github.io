@@ -1,0 +1,10 @@
+.text {
+    background-color: black;
+}
+
+span {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    background-color: rgb(255, 0, 0);
+     
+}
